@@ -13,7 +13,7 @@ SoCal Regional Contests. The following problems were confirmed to be solved:
 
 - Diamond (me)
 - [Aaron](https://github.com/aaronlieb)
-- Sam
+- [Sam](https://github.com/pas-trop-de-zele)
 
 Special thanks to:
 
