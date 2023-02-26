@@ -1,0 +1,212 @@
+3 10
+  h = 6.5
+top has: -1.4, 6.5
+top has: 5, 6.5
+top has: 0, 10
+bottom has: -1.4, 6.5
+bottom has: 5, 6.5
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 9.6 top_area: 22.4
+  top bigger
+ok: 6.50001 10
+  h = 8.25
+top has: -0.699998, 8.25
+top has: 2.49999, 8.25001
+top has: 0, 10
+bottom has: -0.699998, 8.25
+bottom has: 2.49999, 8.25001
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 31.2001 top_area: 5.59997
+  bottom bigger
+ok: 6.50001 8.25
+  h = 7.37501
+top has: -1.05, 7.37501
+top has: 3.74999, 7.37501
+top has: 0, 10
+bottom has: -1.05, 7.37501
+bottom has: 3.74999, 7.37501
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 19.0001 top_area: 12.5999
+  bottom bigger
+ok: 6.50001 7.37501
+  h = 6.93751
+top has: -1.225, 6.93751
+top has: 4.37499, 6.93751
+top has: 0, 10
+bottom has: -1.225, 6.93751
+bottom has: 4.37499, 6.93751
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 13.9501 top_area: 17.1499
+  top bigger
+ok: 6.93752 7.37501
+  h = 7.15626
+top has: -1.13749, 7.15626
+top has: 4.06248, 7.15626
+top has: 0, 10
+bottom has: -1.13749, 7.15626
+bottom has: 4.06248, 7.15626
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 16.3877 top_area: 14.7874
+  bottom bigger
+ok: 6.93752 7.15626
+  h = 7.04689
+top has: -1.18124, 7.04689
+top has: 4.21873, 7.04689
+top has: 0, 10
+bottom has: -1.18124, 7.04689
+bottom has: 4.21873, 7.04689
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.1471 top_area: 15.9467
+  top bigger
+ok: 7.0469 7.15626
+  h = 7.10158
+top has: -1.15937, 7.10158
+top has: 4.1406, 7.10158
+top has: 0, 10
+bottom has: -1.15937, 7.10158
+bottom has: 4.1406, 7.10158
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.7619 top_area: 15.3615
+  bottom bigger
+ok: 7.0469 7.10158
+  h = 7.07424
+top has: -1.1703, 7.07424
+top has: 4.17966, 7.07424
+top has: 0, 10
+bottom has: -1.1703, 7.07424
+bottom has: 4.17966, 7.07424
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.4532 top_area: 15.6527
+  top bigger
+ok: 7.07425 7.10158
+  h = 7.08792
+top has: -1.16483, 7.08792
+top has: 4.16012, 7.08792
+top has: 0, 10
+bottom has: -1.16483, 7.08792
+bottom has: 4.16012, 7.08792
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.6073 top_area: 15.5067
+  bottom bigger
+ok: 7.07425 7.08792
+  h = 7.08108
+top has: -1.16757, 7.08108
+top has: 4.16988, 7.08108
+top has: 0, 10
+bottom has: -1.16757, 7.08108
+bottom has: 4.16988, 7.08108
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5302 top_area: 15.5796
+  top bigger
+ok: 7.08109 7.08792
+  h = 7.08451
+top has: -1.1662, 7.08451
+top has: 4.16499, 7.08451
+top has: 0, 10
+bottom has: -1.1662, 7.08451
+bottom has: 4.16499, 7.08451
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5688 top_area: 15.5431
+  bottom bigger
+ok: 7.08109 7.08451
+  h = 7.0828
+top has: -1.16688, 7.0828
+top has: 4.16743, 7.0828
+top has: 0, 10
+bottom has: -1.16688, 7.0828
+bottom has: 4.16743, 7.0828
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5495 top_area: 15.5612
+  top bigger
+ok: 7.08281 7.08451
+  h = 7.08366
+top has: -1.16654, 7.08366
+top has: 4.1662, 7.08366
+top has: 0, 10
+bottom has: -1.16654, 7.08366
+bottom has: 4.1662, 7.08366
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5592 top_area: 15.5521
+  bottom bigger
+ok: 7.08281 7.08366
+  h = 7.08323
+top has: -1.16671, 7.08323
+top has: 4.16681, 7.08323
+top has: 0, 10
+bottom has: -1.16671, 7.08323
+bottom has: 4.16681, 7.08323
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5544 top_area: 15.5566
+  top bigger
+ok: 7.08324 7.08366
+  h = 7.08345
+top has: -1.16662, 7.08345
+top has: 4.1665, 7.08345
+top has: 0, 10
+bottom has: -1.16662, 7.08345
+bottom has: 4.1665, 7.08345
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5569 top_area: 15.5543
+  bottom bigger
+ok: 7.08324 7.08345
+  h = 7.08335
+top has: -1.16666, 7.08335
+top has: 4.16665, 7.08335
+top has: 0, 10
+bottom has: -1.16666, 7.08335
+bottom has: 4.16665, 7.08335
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5557 top_area: 15.5554
+  bottom bigger
+ok: 7.08324 7.08335
+  h = 7.0833
+top has: -1.16668, 7.0833
+top has: 4.16672, 7.0833
+top has: 0, 10
+bottom has: -1.16668, 7.0833
+bottom has: 4.16672, 7.0833
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5551 top_area: 15.556
+  top bigger
+ok: 7.08331 7.08335
+  h = 7.08333
+top has: -1.16667, 7.08333
+top has: 4.16668, 7.08333
+top has: 0, 10
+bottom has: -1.16667, 7.08333
+bottom has: 4.16668, 7.08333
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5555 top_area: 15.5556
+  top bigger
+ok: 7.08334 7.08335
+  h = 7.08334
+top has: -1.16666, 7.08334
+top has: 4.16665, 7.08334
+top has: 0, 10
+bottom has: -1.16666, 7.08334
+bottom has: 4.16665, 7.08334
+bottom has: -2, 5
+bottom has: 10, 3
+bottom area: 15.5557 top_area: 15.5555
+  bottom bigger
+ok: 7.08334 7.08334
+7.08334
+
